@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/HBRS-MAAS/ws18-project-intell-agent.svg?branch=master)](https://travis-ci.org/HBRS-MAAS/ws18-project-intell-agent)
+
 # MAAS Project - <Team Name>
 
 Add a brief description of your project. Make sure to keep this README updated, particularly on how to run your project from the **command line**.
