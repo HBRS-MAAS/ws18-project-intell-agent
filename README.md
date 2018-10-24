@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4301dde6d66c40918d30039a0178869d)](https://app.codacy.com/app/vajrag/ws18-project-intell-agent?utm_source=github.com&utm_medium=referral&utm_content=HBRS-MAAS/ws18-project-intell-agent&utm_campaign=Badge_Grade_Settings)
 [![Build Status](https://travis-ci.org/HBRS-MAAS/ws18-project-intell-agent.svg?branch=master)](https://travis-ci.org/HBRS-MAAS/ws18-project-intell-agent)
 
 # MAAS Project - <Team Name>
