@@ -5,8 +5,9 @@
 Add a brief description of your project. Make sure to keep this README updated, particularly on how to run your project from the **command line**.
 
 ## Team Members
-* Name1 LastName1 - [@githubusername](https://github.com/username)
-* Name2 LastName2 - [@githubusername](https://github.com/username)
+* Supriya Vadiraj - [@SupriyaVadiraj](https://github.com/Suppi14)
+* Sushma Devaramani - [@SushmaDG](https://github.com/SushmaDG)
+* Vajra Ganeshkumar - [@VajraG](http://github.com/vajrag)
 
 ## Dependencies
 * JADE v.4.5.0
