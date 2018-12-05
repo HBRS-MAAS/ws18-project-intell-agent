@@ -1,0 +1,10 @@
+engines:
+ rubocop:
+   enabled: true
+   exclude_paths:
+     - config/engines.yml
+ coverage:
+   enabled: true
+   exclude_paths:
+     - config/engines.yml
+  
